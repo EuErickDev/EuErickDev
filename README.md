@@ -1,50 +1,53 @@
+# Erick Felipe
+**Front-end Developer | UX/UI Design Student**
+
+---
+
+### Perfil Profissional
+Desenvolvedor em formação através do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco principal é a intersecção entre a lógica de programação e a estética do design, transformando requisitos técnicos em interfaces modernas, funcionais e centradas na experiência do usuário.
+
+---
+
+### Competências e Tecnologias
+
+**Desenvolvimento & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,vscode&theme=dark" />
+</p>
+
+> **Base Lógica:** Domínio inicial de algoritmos e lógica de programação fundamentado em **Python** durante o início da trajetória acadêmica.
+
+---
+
+### Estatísticas de Desenvolvimento
+
 <div align="center">
-  <h1> Erick Felipe </h1>
-  <p><strong>Front-end | UX/UI Design Student</strong></p>
-  <p>Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS)</p>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&icon_color=00d1b2" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🛠️ Pilha Tecnológica
-
-**O que eu utilizo:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark" />
-</p>
-
-**O que estou estudando:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,figma,git&theme=dark" />
-</p>
+### Princípios de Trabalho
+* **UX Strategy:** Resolução de problemas focada na jornada do usuário.
+* **UI Design:** Interfaces limpas, responsivas e visualmente equilibradas.
+* **Acessibilidade:** Desenvolvimento inclusivo seguindo os padrões WCAG.
 
 ---
 
-### 📊 Estatísticas
+### Contato Profissional
+[LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:SEU-EMAIL@AQUI.com) | [Instagram](https://instagram.com/SEU-INSTA)
+
+---
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=flat&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=transparent&hide_border=true" />
-  </picture>
-
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=flat&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=transparent&hide_border=true" />
-  </picture>
+  <sub>"O design cria a experiência, o código a torna realidade."</sub>
 </div>
-
----
-
-### 🎨 Visão de Design
-* **UX Design:** Foco em entender a jornada do usuário.
-* **UI Design:** Criação de layouts limpos e visuais equilibrados.
-* **Acessibilidade:** Desenvolver para que todos consigam navegar.
-
-<br />
-
-<p align="center">
-  <em>"O design cria a experiência, o código a torna realidade."</em>
-</p>
