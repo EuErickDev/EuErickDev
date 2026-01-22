@@ -12,7 +12,7 @@ Desenvolvedor em formação através do curso de **Análise e Desenvolvimento de
 
 **Desenvolvimento & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,python,vscode&theme=dark" />
 </p>
 
 > **Base Lógica:** Domínio inicial de algoritmos e lógica de programação fundamentado em **Python** durante o início da trajetória acadêmica.
