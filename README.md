@@ -1,13 +1,12 @@
-# Olá, eu sou o Erick! 👋
+# Olá, eu sou o Erick!
 
-- 🎓 Atualmente cursando o último ano de **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💻 Focado em desenvolvimento **Front-end** e apaixonado por criar interfaces modernas.
-- 🎨 Interessado em **UX/UI Design** para melhorar a experiência do usuário.
-- 🚀 Busco colaboração em projetos de interfaces modernas e funcionais.
+- Atualmente cursando o último ano de **Análise e Desenvolvimento de Sistemas (ADS)**.
+- Focado em desenvolvimento **Front-end** e interessado em UX/UI Design.
+- Busco colaboração em projetos de interfaces modernas e funcionais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div style="display: inline-block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,17 +20,38 @@
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+### Estatísticas do GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&theme=radial"/>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 ---
 
-### 🌱 Meus Interesses e Estudos
-- **Web Design Responsivo:** Criar sites que funcionam em qualquer tela.
-- **Acessibilidade Digital:** Garantir que todos possam usar minhas aplicações.
+### Interesses e Estudos
+- **Web Design Responsivo:** Interfaces que se adaptam a qualquer tela.
+- **Acessibilidade Digital:** Experiências inclusivas para todos.
 
-> "O design não é apenas o que parece e o que se sente. O design é como funciona." - Steve Jobs
+> "O design não é apenas o que parece. O design é como funciona." - Steve Jobs
