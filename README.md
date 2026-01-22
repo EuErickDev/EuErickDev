@@ -32,7 +32,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=dark&hide_border=true" />
   </picture>
 
   <picture>
@@ -44,7 +44,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=dark&hide_border=true" />
   </picture>
 </div>
 
@@ -54,4 +54,4 @@
 - **Web Design Responsivo:** Interfaces que se adaptam a qualquer tela.
 - **Acessibilidade Digital:** Experiências inclusivas para todos.
 
-> "O design não é apenas o que parece. O design é como funciona." - Steve Jobs
+> "O design cria a experiência, o código a torna realidade."
