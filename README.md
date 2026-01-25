@@ -3,30 +3,27 @@
 
 ---
 
-### Perfil Profissional
-Desenvolvedor em formação através do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco principal é a intersecção entre a lógica de programação e a estética do design, transformando requisitos técnicos em interfaces modernas, funcionais e centradas na experiência do usuário.
+### 👨‍💻 Sobre
+Desenvolvedor focado na convergência entre **Análise de Sistemas** e **Design de Experiência**. Especialista em transformar requisitos técnicos em interfaces intuitivas e esteticamente equilibradas.
 
 ---
 
-### Competências e Tecnologias
-
-**Desenvolvimento & Design**
+### 🛠️ Stack & Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,python,vscode&theme=dark" />
 </p>
 
 ---
 
-### Estatísticas de Desenvolvimento
-
+### 📊 Estatísticas
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&icon_color=00d1b2" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&icon_color=00d1b2" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=7&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&include_all_commits=true&count_private=true" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&langs_count=8&theme=shadow_blue&hide_border=false&title_color=00d1b2&text_color=9f9f9f&hide_progress=false" />
       </td>
     </tr>
   </table>
@@ -34,15 +31,15 @@ Desenvolvedor em formação através do curso de **Análise e Desenvolvimento de
 
 ---
 
-### Princípios de Trabalho
-* **UX Strategy:** Resolução de problemas focada na jornada do usuário.
-* **UI Design:** Interfaces limpas, responsivas e visualmente equilibradas.
-* **Acessibilidade:** Desenvolvimento inclusivo seguindo os padrões WCAG.
+### 🧠 Princípios de Trabalho
+* **UX Strategy:** Foco na jornada e usabilidade do usuário.
+* **UI Design:** Interfaces responsivas e visualmente equilibradas.
+* **Acessibilidade:** Desenvolvimento seguindo os padrões WCAG.
 
 ---
 
-### Contato Profissional
-[LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:Erickfelipe5424@gmail.com) | [Instagram](https://instagram.com/r1ck07_)
+### 📞 Contato Profissional
+[**LinkedIn**](https://linkedin.com/in/SEU-LINKEDIN) | [**E-mail**](mailto:euerickdev@gmail.com) | [**Instagram**](https://instagram.com/r1ck07_)
 
 ---
 
