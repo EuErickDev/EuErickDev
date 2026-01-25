@@ -42,7 +42,7 @@ Desenvolvedor em formação através do curso de **Análise e Desenvolvimento de
 ---
 
 ### Contato Profissional
-[LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:SEU-EMAIL@AQUI.com) | [Instagram](https://instagram.com/SEU-INSTA)
+[LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:Erickfelipe5424@gmail.com) | [Instagram](https://instagram.com/r1ck07_)
 
 ---
 
