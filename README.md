@@ -1,31 +1,25 @@
-# Erick Felipe
+# Olá! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas**  
-Interesse em **Front-end** e **UX/UI Design**
+Sou o **Erick**, um **Estudante de Front-End & UX/UI**. Gosto de construir interfaces limpas, modernas e manter tudo o mais simples possível.
+
+Atualmente estou focado em:
+
+* HTML, CSS e Lógica de Programação
+* Fundamentos de UX/UI no Figma
+* **Em breve:** React e TypeScript
 
 ---
 
-Em aprendizado contínuo, estudando desenvolvimento front-end  
-e princípios de design de interfaces.
+### 🛠️ Ferramentas que eu já utilizo
 
----
-
-### Tecnologias & Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,python,vscode&theme=dark" />
+<p align="left">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" height="35" alt="Figma" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code" /></a>
 </p>
 
 ---
 
-### GitHub
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EuErickDev&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuErickDev&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-<sub>Em aprendizado.</sub>
+> _Transformar designs intuitivos em códigos eficientes, evoluindo a experiência do usuário a cada linha de Front-End._
