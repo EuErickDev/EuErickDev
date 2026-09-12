@@ -1,66 +1,28 @@
 # Erick Felipe
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/erickfelipedev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:euerickdev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-101419?style=for-the-badge&logoColor=white)
 
-## Sobre
-
-Sou estudante do **Curso Técnico em Análise e Desenvolvimento de Sistemas (ADS)**.
-
-Atualmente estou desenvolvendo minha base em programação, desenvolvimento web e fundamentos da Engenharia de Software, com foco em construir uma carreira como **Desenvolvedor Back-end**, especializado em **Java**.
-
-Tenho interesse em desenvolvimento de software, arquitetura de sistemas, boas práticas de programação e evolução contínua por meio de estudos e projetos.
+Systems Analysis and Development student focused on **Backend Development** and the **Java** ecosystem, continuously transitioning toward **Software Engineering**. Dedicated to studying and applying software architecture, Design Patterns, SOLID principles, and Clean Code practices. Hands-on experience building web applications using Java, PHP, and JavaScript, along with code management and version control using Git and GitHub.
 
 ---
 
-## Atualmente
+### 🧰 Languages and Tools
 
-- Curso Técnico em Análise e Desenvolvimento de Sistemas (ADS)
-- Lógica de Programação
-- Desenvolvimento Web (HTML, CSS e JavaScript)
-- Java
-- PHP
-- Metodologias Ágeis
-- Git e GitHub
-- Figma
-- Visual Studio Code
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma"/>
+</p>
 
 ---
 
-## Tecnologias
+### 📫 Contact & Socials
 
-<p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript">
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java">
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" alt="PHP">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git">
-  </a>
-  <a href="https://github.com/euerickdev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" alt="VS Code">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" alt="Figma">
-  </a>
-</p>
+* **LinkedIn:** [erickfelipedev](https://www.linkedin.com/in/erickfelipedev/)
+* **Email:** [euerickdev@gmail.com](mailto:euerickdev@gmail.com)
